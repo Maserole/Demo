@@ -3,3 +3,4 @@ Welcome to git
 Git is awesome
 Exercise 7
 </p>
+String actionToTake = "5";
