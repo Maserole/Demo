@@ -3,4 +3,5 @@ Welcome to git
 Git is awesome
 Exercise 7
 </p>
+We are editing from Intellij
 String actionToTake = "5";
